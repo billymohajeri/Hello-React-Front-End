@@ -17,7 +17,7 @@
 
 # 📖 Hello World Frontend <a name="about-project"></a>
 
-**Hello World Frontend** is a simple repo to test the connection between React and Rails, using Redux store to show some quotes. This is the react frontend. Here is the rails backend.(https://github.com/billymohajeri/Hello-Rails-Back-End)
+**Hello World Frontend** is a simple repo to test the connection between React and Rails, using Redux store to show some quotes. This is the react frontend. [Here is the rails backend.](https://github.com/billymohajeri/Hello-React-Front-End)
 
 ## 🛠 Built With <a name="built-with"></a>
 
